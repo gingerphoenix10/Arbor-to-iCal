@@ -63,7 +63,6 @@ if not preAuthenticated:
         print("Authentication failed! Check your login details")
         exit()
     token = authResp["items"][0]["session_id"]
-    print(f"New token: {token}")
 print()
 
 # Arbor has 3 calander request modes - Day, 5 Days, and Month. These are all handled really weirdly:
