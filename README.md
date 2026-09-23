@@ -1,6 +1,8 @@
 # Arbor to iCal
 A python script that automatically logs into your Arbor account and converts all entries from your Calendar into iCal (.ics) format.
 
+(this has only been tested on one account in one school because I happen to only be 1 person that also happens to only attend one high school. No guarantee that any of this works for anyone else)
+
 ## Why?
 For the last couple of years, I have used my Apple Watch to track all of my school periods so that I can quickly glance at where I need to be. Then the service that our school used that let us export that information shut down, and we migrated to Arbor.
 To remedy this, we simply got our calendar data from Google Calendar instead, which let you export the same way...<br>
